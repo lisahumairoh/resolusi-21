@@ -4,5 +4,6 @@
   * Selenium web driver
     * java
     * Javascript
+- Belajar kunci balok
 - Belajar merajut
 - Belajar menanam melon hidroponik
