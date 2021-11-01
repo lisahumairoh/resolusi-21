@@ -6,7 +6,7 @@
   * Selenium web driver
     * java
     * Javascript
-    * Pyton
+    *pyton
 - Belajar kunci balok
 - Belajar merajut
 - Belajar menanam melon hidroponik
