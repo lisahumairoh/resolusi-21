@@ -1,5 +1,8 @@
 #Rencana lain
 - Belajar PHP Framework
 - Belajar Software testing
+  * Selenium web driver
+    * java
+    * Javascript
 - Belajar merajut
 - Belajar menanam melon hidroponik
