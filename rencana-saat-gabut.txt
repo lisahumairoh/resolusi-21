@@ -1,7 +1,7 @@
 #Rencana lain
 - Belajar PHP Framework
-  *CI
-  *Cake
+  *Phalcon
+  *Laravel
 - Belajar Software testing
   * Selenium web driver
     * java
@@ -10,3 +10,4 @@
 - Belajar kunci balok
 - Belajar merajut
 - Belajar menanam melon hidroponik
+- Belajar pyton
